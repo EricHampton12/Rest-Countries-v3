@@ -7,7 +7,7 @@ const NotFound = () => {
       <div className="container__notFound">
         <img
           className="word__notFound"
-          src="https://user-images.githubusercontent.com/24848110/33519396-7e56363c-d79d-11e7-969b-09782f5ccbab.png"
+          src="https://humbledave42.files.wordpress.com/2018/03/best-404-page-design5.png?w=1000&h=619&crop=1"
           alt=""
         />
       </div>

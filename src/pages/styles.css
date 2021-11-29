@@ -39,6 +39,12 @@
     width: 100%;
     font-weight: 800;
 }
+
+.notFound img {
+    height: 400px;
+    width: 600px;
+    /* margin-bottom: 400px; */
+}
 .word__notFound {
     width: 100px;
     height: 100px;
