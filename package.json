@@ -13,6 +13,10 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EricHampton12/Rest-Countries-v3"
+},
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
