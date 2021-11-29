@@ -38,12 +38,12 @@ const ItemInfoCountry = ({ country }) => {
           <p>
             <span>Languages: </span>
           </p>
-          <div className="container__lenguages">
-            {country.languages.map((lenguage, index) => {
+          <div className="container__languages">
+            {country.languages.map((language, index) => {
               return country.languages.length - 1 > index ? (
-                <p key={lenguage.name}>{lenguage.name},</p>
+                <p key={language.name}>{language.name},</p>
               ) : (
-                <p key={lenguage.name}>{lenguage.name}</p>
+                <p key={language.name}>{language.name}</p>
               );
             })}
           </div>

@@ -4,7 +4,7 @@ import "./Loading.css";
 function Loading() {
   return (
     <div className="loading">
-      <div className="lds-ring">
+      <div className="ring">
         <div />
         <div />
         <div />

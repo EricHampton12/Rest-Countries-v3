@@ -27,7 +27,7 @@ const Dropdown = ({ selectDropdown }) => {
           Africa
         </li>
         <li className="dropdown__link" data-name="americas">
-          America
+          Americas
         </li>
         <li className="dropdown__link" data-name="asia">
           Asia

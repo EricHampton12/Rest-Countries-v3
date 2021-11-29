@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Header from "./components/Header/Header";
 import "./App.css";
-//= =====================import the router and pages======================/
 import About from "./pages/About";
 import Home from "./pages/Home";
 import { ProviderTheme } from "./context/ContextTheme";

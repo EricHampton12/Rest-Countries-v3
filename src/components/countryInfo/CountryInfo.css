@@ -22,15 +22,15 @@
     /* background: cadetblue; */
 } 
 
-.lenguages {
+.languages {
     display: flex;
     align-items: center;
 }
-.container__lenguages {
+.container__languages {
     display: flex;
 }
 
-.container__lenguages p {
+.container__languages p {
     margin-left: 5px;
     
 }
